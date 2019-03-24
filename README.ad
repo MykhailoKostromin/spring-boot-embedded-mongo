@@ -1,0 +1,4 @@
+Demonstrates how to setup embedded mongo in tests. +
+To fill test data you need just to drop a json file into: +
+[source]
+src/test/resources/mongodb/data

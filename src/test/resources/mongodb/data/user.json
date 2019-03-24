@@ -1,0 +1,14 @@
+[
+  {
+    "_class": "io.github.mykhailokostromin.springbootembeddedmongo.User",
+    "name": "Lara"
+  },
+  {
+    "_class": "io.github.mykhailokostromin.springbootembeddedmongo.User",
+    "name": "Wayne"
+  },
+  {
+    "_class": "io.github.mykhailokostromin.springbootembeddedmongo.User",
+    "name": "Mira"
+  }
+]
