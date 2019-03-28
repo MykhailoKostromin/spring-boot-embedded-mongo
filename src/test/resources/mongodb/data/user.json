@@ -1,14 +1,14 @@
 [
   {
-    "_class": "io.github.mykhailokostromin.springbootembeddedmongo.User",
+    "_class": "io.github.mykhailokostromin.springbootembeddedmongo.dao.entity.User",
     "name": "Lara"
   },
   {
-    "_class": "io.github.mykhailokostromin.springbootembeddedmongo.User",
+    "_class": "io.github.mykhailokostromin.springbootembeddedmongo.dao.entity.User",
     "name": "Wayne"
   },
   {
-    "_class": "io.github.mykhailokostromin.springbootembeddedmongo.User",
+    "_class": "io.github.mykhailokostromin.springbootembeddedmongo.dao.entity.User",
     "name": "Mira"
   }
 ]

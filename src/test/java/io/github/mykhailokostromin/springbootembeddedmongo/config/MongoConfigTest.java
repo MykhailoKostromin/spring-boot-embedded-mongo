@@ -23,7 +23,7 @@ public class MongoConfigTest {
     private static final String MAVEN_TEST_RESOURCES = "src/test/resources";
     private static final String MONGO_DATA = "/mongodb/data/";
 
-    // this bean is needed for test data population
+    // this bean is needed for test data population. It needs UserRepository
     @Bean
     public Jackson2RepositoryPopulatorFactoryBean repositoryPopulator() throws Exception {
         Resource[] resources = Files.walk(Paths.get(MAVEN_TEST_RESOURCES + MONGO_DATA))
